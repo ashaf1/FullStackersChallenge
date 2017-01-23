@@ -1,0 +1,107 @@
+#content {
+    width : 100%;
+    background-color : #87CEFA;
+    padding : 1em;
+    color : black;
+}
+nav {
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	border-radius: 10px;
+	
+}
+nav a{
+	color: black;
+}
+
+nav ul 
+{
+    width: 100%;
+    
+}
+#pageTitle{
+	text-align: center;
+}
+#myCarousel{
+	width: 85%;
+}
+.carousel-inner .item img{
+	margin: 0 auto;
+	width: auto;
+	height: 25%;
+}
+.parks{
+	display: inline-block;
+	margin: 0px;
+	width: 40%;
+	
+}
+#natParks img,h6{
+	margin: 5px;
+	padding: 5px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 8px;
+    list-style: none;
+    text-align: center;
+    /*width: 200px;*/
+    padding-top: 5px;
+    
+}
+.footer{
+	background-color : #87CEFA;
+	text-align: center;
+	
+}
+#yellowstone{
+	width: 70%;
+	height: 70%;
+	margin: 0px;
+}
+#yellowstone:hover{
+	width:71%;
+}
+#sandDunes{
+	width: 98%;
+	height: 98%;
+	margin: 0px;
+}
+#sandDunes:hover{
+	width: 100%
+}
+
+img{
+	width: 30%;
+	height: 30%;
+}
+a img:hover{
+	width: 31%;
+}
+
+
+table{
+	border-spacing: 30px;
+	width: 100%;
+}
+table,th,td{
+	border: 2px solid black;
+	text-align: center;
+	
+}
+tr th{
+	text-align: center;
+}
+th{
+	background-color: orange;
+}
+
+
+html{
+	background-color : #87CEFA;
+	
+}
